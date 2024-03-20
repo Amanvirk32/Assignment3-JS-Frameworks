@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Shah Rukh Khan",
+        "age": 55,
+        "gender": "Male",
+        "movies": ["Dilwale Dulhania Le Jayenge", "My Name is Khan", "Chennai Express"]
+    },
+    {
+        "name": "Deepika Padukone",
+        "age": 35,
+        "gender": "Female",
+        "movies": ["Padmaavat", "Piku", "Chennai Express"]
+    },
+    {
+        "name": "Salman Khan",
+        "age": 55,
+        "gender": "Male",
+        "movies": ["Bajrangi Bhaijaan", "Dabangg", "Sultan"]
+    },
+    {
+        "name": "Priyanka Chopra",
+        "age": 39,
+        "gender": "Female",
+        "movies": ["Barfi!", "Fashion", "Bajirao Mastani"]
+    },
+    {
+        "name": "Amitabh Bachchan",
+        "age": 79,
+        "gender": "Male",
+        "movies": ["Sholay", "Piku", "Pink"]
+    },
+    {
+        "name": "Alia Bhatt",
+        "age": 29,
+        "gender": "Female",
+        "movies": ["Raazi", "Gully Boy", "Highway"]
+    }
+]
